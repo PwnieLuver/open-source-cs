@@ -71,10 +71,12 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 ## Cyber security
 self paced
+
 https://www.mindmeister.com/1465024827/hacking-resources?fullscreen=1
 
 ## Computer networking
 self paced
+
 https://www.youtube.com/watch?v=QKfk7YFILws
 https://www.youtube.com/watch?v=O4pJeXgOJDs
 https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO
